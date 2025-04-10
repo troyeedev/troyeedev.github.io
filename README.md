@@ -7,10 +7,10 @@ Motivated and research-oriented individual with a strong foundation in computer 
 ## 🎓 Education
 
 - **M.Sc. (Engg.) in CSE**, Rangamati Science and Technology University  
-  _2020 — Ongoing_
+  _2021 — Ongoing_
 
 - **B.Sc. (Engg.) in CSE**, Rangamati Science and Technology University  
-  _2020 (held 2023) | GPA: 3.41/4.00_
+  _2020 (held 2023)
 
 ---
 
@@ -56,7 +56,7 @@ Motivated and research-oriented individual with a strong foundation in computer 
 
 ## 🗣️ Communication Skills
 
-- Conducted seminars and IT workshops  
+- Conducted and participated seminars and IT workshops  
 - Skilled public speaker through community engagements  
 
 ---
@@ -70,6 +70,6 @@ Motivated and research-oriented individual with a strong foundation in computer 
 ---
 🌐 **Live Website:** [https://troyeedev.github.io](https://troyeedev.github.io)  
 📧 **Email:** [Troyee_2001012012@student.rmstu.ac.bd](mailto:Troyee_2001012012@student.rmstu.ac.bd)  
-💻 **GitHub:** [Troyee-Dev](https://github.com/Troyee-Dev)
+💻 **GitHub:** [troyeedev](https://github.com/troyeedev)
 
 ---
